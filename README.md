@@ -1,10 +1,10 @@
 ## YOLO_v5_ObjectDetection
 
-## End to End Object Detection Project
+### End to End Object Detection Project
 
-## How to run:
+#### How to run:
 
-## bash
+##### bash
 
 '''
 (create virtual environment signLang)
